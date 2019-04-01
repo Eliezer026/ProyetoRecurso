@@ -20,6 +20,11 @@ namespace ProyectoRecurso.Controllers
             return View(db.Departamento.ToList());
         }
 
+
+
+       
+
+
         // GET: Home/Details/5
         public ActionResult Details(int? id)
         {

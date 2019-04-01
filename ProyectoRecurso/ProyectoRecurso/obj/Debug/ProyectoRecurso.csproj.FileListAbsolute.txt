@@ -175,8 +175,8 @@ C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\bin\es\System.Web.WebPages.resources.dll
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\obj\Debug\ProyectoRecurso.csprojAssemblyReference.cache
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\obj\Debug\ProyectoRecurso.csproj.CoreCompileInputs.cache
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\obj\Debug\ProyectoRecurso.csproj.CopyComplete
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\obj\Debug\ProyectoRecurso.dll
 C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\obj\Debug\ProyectoRecurso.pdb
+C:\Users\abel026\Documents\GitHub\ProyetoRecurso\ProyectoRecurso\ProyectoRecurso\obj\Debug\ProyectoRecurso.csprojAssemblyReference.cache

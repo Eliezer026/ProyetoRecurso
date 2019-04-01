@@ -138,7 +138,11 @@
     <Compile Include="Controllers\DepartamentosController.cs" />
     <Compile Include="Controllers\EmpleadosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LicenciasController.cs" />
     <Compile Include="Controllers\NominasController.cs" />
+    <Compile Include="Controllers\PermisosController.cs" />
+    <Compile Include="Controllers\SalidaEmpleadosController.cs" />
+    <Compile Include="Controllers\VacacionesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -307,6 +311,27 @@
     <Content Include="Views\Departamentos\Details.cshtml" />
     <Content Include="Views\Departamentos\Edit.cshtml" />
     <Content Include="Views\Departamentos\Index.cshtml" />
+    <Content Include="Views\Cargos\IndexPrueba.cshtml" />
+    <Content Include="Views\Licencias\Create.cshtml" />
+    <Content Include="Views\Licencias\Delete.cshtml" />
+    <Content Include="Views\Licencias\Details.cshtml" />
+    <Content Include="Views\Licencias\Edit.cshtml" />
+    <Content Include="Views\Licencias\Index.cshtml" />
+    <Content Include="Views\Permisos\Create.cshtml" />
+    <Content Include="Views\Permisos\Delete.cshtml" />
+    <Content Include="Views\Permisos\Details.cshtml" />
+    <Content Include="Views\Permisos\Edit.cshtml" />
+    <Content Include="Views\Permisos\Index.cshtml" />
+    <Content Include="Views\SalidaEmpleados\Create.cshtml" />
+    <Content Include="Views\SalidaEmpleados\Delete.cshtml" />
+    <Content Include="Views\SalidaEmpleados\Details.cshtml" />
+    <Content Include="Views\SalidaEmpleados\Edit.cshtml" />
+    <Content Include="Views\SalidaEmpleados\Index.cshtml" />
+    <Content Include="Views\Vacaciones\Create.cshtml" />
+    <Content Include="Views\Vacaciones\Delete.cshtml" />
+    <Content Include="Views\Vacaciones\Details.cshtml" />
+    <Content Include="Views\Vacaciones\Edit.cshtml" />
+    <Content Include="Views\Vacaciones\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

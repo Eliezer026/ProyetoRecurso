@@ -21,7 +21,42 @@ namespace ProyectoRecurso.Controllers
             return View(cargo.ToList());
         }
 
+        public ActionResult IndexPrueba()
+        {
+
+
+
+            return View();
+        }
+
+
         // GET: Cargos/Details/5
+
+
+        public ActionResult getdata()
+        {
+            List<Cargo> dataa = db.Cargo.ToList<Cargo>();
+            return Json(new { data = dataa }, JsonRequestBehavior.AllowGet);
+        }
+
+        public JsonResult postdata(Cargo db_C)
+        {
+
+            if (ModelState.IsValid)
+            {
+                Empleados emple = new Empleados();
+
+                Cargo cargo = new Cargo();
+                cargo.CargoEmpleado = db_C.CargoEmpleado;
+                cargo.IdEmpleado = db_C.IdEmpleado;
+                cargo.Id = db_C.Id;
+                db.Cargo.Add(db_C);
+                db.SaveChanges();
+            }
+
+
+            return Json("success", JsonRequestBehavior.AllowGet);
+        }
         public ActionResult Details(int? id)
         {
             if (id == null)
